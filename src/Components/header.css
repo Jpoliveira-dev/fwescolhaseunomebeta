@@ -1,0 +1,39 @@
+.header {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ffffff;
+  padding: 5px 0;
+  margin-bottom: 2rem;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 0 ;
+  padding: 0;
+  height: 10rem;
+}
+
+.logo {
+  height: 12rem;
+  margin: 0;
+  padding: 0;
+}
+.login-link{
+  list-style: none;
+  font-size: 1.5rem;
+  display: flex;
+   justify-content: right;
+  align-items: center;
+
+}
+.login-link li {
+  list-style: none;
+}
+.login-link a {
+  text-decoration: none;
+  color: #1b1b1b;
+  font-weight: bold;
+  padding: 2rem;
+}
