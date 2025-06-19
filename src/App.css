@@ -3,11 +3,14 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 5px;
   margin: 30px;
+  padding-top: 8rem;
 } 
 .title{
     font-size: 2rem;
     display: flex;
     justify-content: center;
+    align-items: center;
+    color: black;
 
 }
 body, html, #root {
