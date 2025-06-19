@@ -1,4 +1,4 @@
-import logoForwize from "../assets/logoforwize2.svg";
+import logoForwize from "../assets/fwlogo6-removebg-preview.png";
 import "./header.css";
 
 function Header() {
